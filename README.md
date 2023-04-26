@@ -1,5 +1,7 @@
 # micard
 
+![](screenshot.png)
+
 A new Flutter project.
 
 ## Getting Started
